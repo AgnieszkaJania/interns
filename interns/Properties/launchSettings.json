@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "interns": {
+      "commandName": "Project",
+      "commandLineArgs": "count https://fortedigital.github.io/Back-End-Internship-Task/interns.json"
+    }
+  }
+}
